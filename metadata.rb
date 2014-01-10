@@ -11,5 +11,5 @@ supports "centos"
 # == Recipes
 #
 
-recipe "rstool::setup_rsdns"
+recipe "rstool::setup_rsdns",
   "Install and setup Rackspace DNS tool"
